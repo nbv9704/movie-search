@@ -83,13 +83,13 @@ npm run preview
 ![Hero Section](screenshots/hero-section.png)
 
 ### Movie Details
-![Movie Details](screenshots/movie-details.png)
+![Movie Details](screenshots/movie-details.gif)
 
 ### Search Results
-![Search Results](screenshots/search-results.png)
+![Search Results](screenshots/search-results.gif)
 
 ### Cast List
-![Cast List](screenshots/cast-list.png)
+![Cast List](screenshots/cast-list.gif)
 
 ## 🎯 Kiến Thức Đạt Được
 
