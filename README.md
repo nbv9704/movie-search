@@ -5,14 +5,14 @@
 ## ✨ Tính Năng
 
 - 🔍 **Tìm kiếm phim** - Tìm kiếm hàng triệu bộ phim từ cơ sở dữ liệu TMDB
-- 🎯 **Chi tiết phim** - Xem thông tin đầy đủ, trailer, cast và các phim tương tự
-- 🎞️ **Hero Section** - Slideshow tự động với phim trending
-- ⭐ **Đánh giá & Reviews** - Xem rating và số lượng votes
-- 🎭 **Danh sách Cast** - Hiển thị diễn viên chính với ảnh và vai diễn
-- 🎥 **Trailer YouTube** - Xem trailer trực tiếp trong trang
-- 📱 **Responsive Design** - Giao diện mượt mà trên mọi thiết bị
-- 🌓 **Dark Mode** - Chuyển đổi chế độ sáng/tối
-- 🔗 **Route Navigation** - Điều hướng mượt mà với React Router
+- 🎯 **Chi tiết phim** - Xem thông tin đầy đủ, trailer, danh sách diễn viên và các phim tương tự
+- 🎞️ **Phần giới thiệu nổi bật** - Trình chiếu tự động với các phim đang thịnh hành
+- ⭐ **Đánh giá** - Xem điểm đánh giá và số lượng bình chọn
+- 🎭 **Danh sách diễn viên** - Hiển thị diễn viên chính với ảnh và vai diễn
+- 🎥 **Trailer từ YouTube** - Xem trailer trực tiếp trong trang
+- 📱 **Giao diện đáp ứng** - Hiển thị mượt mà trên mọi thiết bị
+- 🌓 **Chế độ tối** - Chuyển đổi chế độ sáng/tối
+- 🔗 **Điều hướng liền mạch** - Di chuyển mượt mà giữa các trang với React Router
 - 📄 **Phân trang** - Duyệt qua hàng nghìn kết quả tìm kiếm
 
 ## 🚀 Demo Trực Tuyến
