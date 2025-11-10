@@ -1,5 +1,5 @@
 # 🎬 Movie Search
-
+ 
 Ứng dụng tìm kiếm và khám phá phim hiện đại được xây dựng bằng React, TypeScript và Tailwind CSS, tích hợp TMDB API.
 
 ## ✨ Tính Năng
